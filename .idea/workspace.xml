@@ -32,13 +32,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/resources/men" />
       <recent name="$PROJECT_DIR$/src/resources/street" />
       <recent name="$PROJECT_DIR$/src/textures" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -51,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601213926894</updated>
       <workItem from="1601213928689" duration="20879000" />
-      <workItem from="1601445236878" duration="3610000" />
+      <workItem from="1601445236878" duration="4516000" />
     </task>
     <servers />
   </component>

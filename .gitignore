@@ -1,0 +1,14 @@
+.DS_store
+.idea
+.vscode
+node_modules
+build
+public
+dist
+*.log
+*.map
+!public/*.map
+src/**/*.js
+src/**/*.map
+*.map
+uploads
