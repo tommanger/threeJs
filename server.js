@@ -5,7 +5,7 @@ const express = require("express")
     , enforce = require("express-sslify")
     , fallback = require("express-history-api-fallback")
     , port = process.env.PORT || 9000
-    , root = path.resolve(__dirname, "public")
+    , root = path.resolve(__dirname, "dist")
 
 app
     .use(helmet())
